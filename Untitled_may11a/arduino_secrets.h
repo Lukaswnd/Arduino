@@ -1,0 +1,3 @@
+#define SECRET_SSID "IoT"
+#define SECRET_PASS "P4!mY6&S5QeJXiaMdd3b7mW5R"
+#define SECRET_DEVICE_KEY ""
